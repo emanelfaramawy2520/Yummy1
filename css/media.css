@@ -1,0 +1,61 @@
+
+
+@media screen and (min-width:1200px) and (max-width:1450px)
+{
+    #rowData
+    {
+        margin-left: 30px;
+    }
+}
+
+
+@media screen and (min-width:992px) and (max-width:1100px)
+{
+    #rowData
+    {
+        margin-left: 40px;
+    }
+}
+
+
+@media screen and (min-width:769px) and (max-width:850px)
+{
+    #rowData
+    {
+        margin-left: 33px;
+    }
+}
+
+
+@media screen and (min-width:671px) and (max-width:768px)
+{
+    #letterSearchInput
+    {
+        margin-top: 20px;
+    }
+
+    #rowData
+    {
+        margin-left: 2px;
+    }
+    
+}
+
+
+@media screen and (max-width:670px)
+{
+    #letterSearchInput
+    {
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    #nameSearchInput
+    {
+        margin-left: 15px;
+    }
+
+    #rowData
+    {
+        margin-left: 50px;
+    }
+}
